@@ -1,6 +1,6 @@
 Grepsr Assignment Project
 
-Getting Started:
+Installing modules:
 
 composer install
 
