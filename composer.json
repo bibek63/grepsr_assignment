@@ -1,0 +1,13 @@
+{
+    "name": "dell/assignment",
+    "description": "assignment project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "test"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^4.0"
+    }
+}
